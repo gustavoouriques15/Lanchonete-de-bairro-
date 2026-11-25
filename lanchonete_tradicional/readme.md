@@ -1,8 +1,6 @@
 Lanchonete do Bairro
 
-
 Tecnologias utilizadas
-
 HTML
 CSS
 JavaScript
